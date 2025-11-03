@@ -1,0 +1,54 @@
+h1 {
+  background: linear-gradient(hsl(295, 100%, 50%), rgb(119, 119, 240));
+  text-align: center;
+  border-radius: 10px;
+  color: #e7f0f0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h3 {
+  background: linear-gradient(rgba(38, 38, 54, 0.692), rgb(34, 58, 44));
+  color: #e7f0f0;
+  border-radius: 5px;
+  border-left: 2px solid rgba(241, 8, 12, 0.879);
+}
+h4 {
+  color: rgb(198, 63, 5);
+}
+audio {
+  width: 100%;
+  box-shadow: 2px 2px 20px rgb(91, 223, 235);
+  border-radius: 30px;
+}
+img {
+  box-shadow: 2px 2px 20px rgb(91, 223, 235);
+  border-radius: 5px;
+}
+video {
+  border-radius: 5px;
+  box-shadow: 2px 2px 20px rgb(223, 235, 91);
+}
+p {
+  background: linear-gradient(rgba(38, 38, 54, 0.692), rgb(34, 58, 44));
+  color: #e7f0f0;
+  border-radius: 5px;
+  border-left: 2px solid rgba(241, 8, 12, 0.879);
+}
+pre {
+  background: linear-gradient(rgba(38, 38, 54, 0.692), rgb(34, 58, 44));
+  color: #e7f0f0;
+  border-radius: 5px;
+  border-left: 2px solid rgba(241, 8, 12, 0.879);
+}
+h2 {
+  background: linear-gradient(hsl(295, 100%, 50%), rgb(119, 119, 240));
+  text-align: center;
+  border-radius: 10px;
+  color: #e7f0f0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+mark {
+  background: radial-gradient(rgb(248, 142, 44), rgb(227, 89, 30));
+}
+body {
+  background-color: rgb(7, 8, 0);
+}
